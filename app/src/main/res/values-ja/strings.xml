@@ -955,4 +955,5 @@
     <string name="yuzu">ゆず</string>
     <!-- ONLY RELEVANT FOR THE JAPANESE SEASONAL CALENDAR Search terms used to identify seasonal ingredients in recipes (should include plural forms or synonyms), see https://en.wikipedia.org/wiki/Yuzu. -->
     <string name="yuzu_terms">ゆず,柚子,柚,ユズ</string>
+    <string name="create_pdf">Create PDF</string>
 </resources>
